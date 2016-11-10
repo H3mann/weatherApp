@@ -1,0 +1,577 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"players",
+				"getPlayersInfo"
+			],
+			[
+				"get",
+				"getPlayersInfo"
+			],
+			[
+				"gith",
+				"githubHelpers"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"player",
+				"playerInfo"
+			],
+			[
+				"conf",
+				"confirmBattle"
+			],
+			[
+				"con",
+				"confirmBattleContainer"
+			],
+			[
+				"on",
+				"onChange"
+			],
+			[
+				"O",
+				"onSubmitUser"
+			],
+			[
+				"route",
+				"routeParams"
+			],
+			[
+				"hashHi",
+				"hashHistory"
+			],
+			[
+				"pla",
+				"playerOne"
+			],
+			[
+				"r",
+				"routeParams"
+			],
+			[
+				"conte",
+				"contextTypes"
+			],
+			[
+				"onS",
+				"onSubmitUser"
+			],
+			[
+				"btn",
+				"btn-success"
+			],
+			[
+				"React",
+				"ReactRouter"
+			],
+			[
+				"react",
+				"react-router"
+			],
+			[
+				"P",
+				"PromptContainer"
+			],
+			[
+				"form",
+				"formData"
+			],
+			[
+				"po",
+				"postRequest"
+			],
+			[
+				"se",
+				"searchResultsArr"
+			],
+			[
+				"batt",
+				"battleActions"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"ra",
+				"Raleway"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"Hello",
+				"HelloWorld"
+			],
+			[
+				"pr",
+				"properties"
+			],
+			[
+				"play",
+				"playSound"
+			],
+			[
+				"bike",
+				"bikeRacks"
+			],
+			[
+				"geo",
+				"geoLoc"
+			],
+			[
+				"gel",
+				"geoLocation"
+			],
+			[
+				"rack",
+				"rackLoc"
+			],
+			[
+				"d",
+				"DefaultParams"
+			],
+			[
+				"Fn",
+				"FantasySportsInjuryReport"
+			],
+			[
+				"F",
+				"FIZZBUZZ"
+			],
+			[
+				"send",
+				"sendResponse"
+			],
+			[
+				"conten",
+				"content-type"
+			],
+			[
+				"handle",
+				"handleRequest"
+			],
+			[
+				"rec",
+				"recipientPhoneNumber"
+			],
+			[
+				"phone",
+				"phoneNumber"
+			],
+			[
+				"strin",
+				"stringifyJSON"
+			],
+			[
+				"us",
+				"userTweets"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"bord",
+				"border-color"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"hie",
+				"min-height"
+			],
+			[
+				"icon",
+				"getMarkerIconUrl"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"flex",
+				"flex-direction"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 107.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Prabhteg/Desktop/React_projects/react-fundamentals-curriculum/app/client/components/Prompt.js",
+		"/Users/Prabhteg/Desktop/React_projects/react-fundamentals-curriculum/app/client/config/routes.js",
+		"/Users/Prabhteg/Desktop/React_projects/react-fundamentals-curriculum/app/client/index.html",
+		"/Users/Prabhteg/Desktop/React_projects/react-fundamentals-curriculum/app/client/container/confirmBattleContainer.js",
+		"/Users/Prabhteg/Desktop/React_projects/react-fundamentals-curriculum/app/client/container/PromptContainer.js",
+		"/Users/Prabhteg/Desktop/React_projects/react-fundamentals-curriculum/app/client/components/Home.js",
+		"/Users/Prabhteg/Desktop/React_projects/react-fundamentals-curriculum/app/client/components/Main.js",
+		"/Users/Prabhteg/Desktop/React_projects/react-fundamentals-curriculum/app/client/router.js",
+		"/Users/Prabhteg/Desktop/React_projects/react-fundamentals-curriculum/app/containers/promptContainer.js",
+		"/Users/Prabhteg/Desktop/React_projects/react-fundamentals-curriculum/app/client/components/DisplayNames.js",
+		"/Users/Prabhteg/Desktop/Greenfield/Meet.ly/client/app/controllers/mapController.js",
+		"/Users/Prabhteg/Desktop/Greenfield/Meet.ly/client/app/app.js",
+		"/Users/Prabhteg/Desktop/Greenfield/Meet.ly/server/models/users.js",
+		"/Users/Prabhteg/Desktop/React_projects/react-fundamentals-curriculum/app/index.js",
+		"/Users/Prabhteg/Desktop/icebox/src/components/appHeader.js",
+		"/Users/Prabhteg/Desktop/make-it-so/bower_components/angular-audio/.bower.json",
+		"/Users/Prabhteg/Desktop/changes.js",
+		"/Users/Prabhteg/Desktop/angularNotes.js",
+		"/Users/Prabhteg/Desktop/Greenfield/Meet.ly/client/app/views/map-view.html",
+		"/Users/Prabhteg/Desktop/Greenfield/Meet.ly/server.js",
+		"/Users/Prabhteg/Desktop/Greenfield/Meet.ly/client/app/views/map-view2.html",
+		"/Users/Prabhteg/Desktop/MVP/DB/db.js",
+		"/Users/Prabhteg/Desktop/MVP/DB/models.js",
+		"/Users/Prabhteg/Desktop/MVP/DB/schema.sql",
+		"/Users/Prabhteg/Desktop/MVP/package.json",
+		"/Users/Prabhteg/Desktop/MVP/bowerrc",
+		"/Users/Prabhteg/Desktop/MVP/bower.json",
+		"/Users/Prabhteg/Desktop/MakersSquare/sprints/sprint.web-historian.exercise/sprint.web-historian.solution/circle.yml",
+		"/Users/Prabhteg/Desktop/blogPost/angular-seed/app/index-async.html",
+		"/Users/Prabhteg/Desktop/AngularApp/my-project/views/partials/deletePost.jade",
+		"/Users/Prabhteg/Desktop/AngularApp/my-project/views/index.jade",
+		"/Users/Prabhteg/Desktop/AngularApp/my-project/views/partials/index.jade",
+		"/Users/Prabhteg/Desktop/AngularApp/my-project/views/partials/addPost.jade",
+		"/Users/Prabhteg/Desktop/AngularApp/my-project/views/partials/readPost.jade",
+		"/Users/Prabhteg/Desktop/MakersSquare/sprints/sprint.shortly-express.exercise/package.json",
+		"/Users/Prabhteg/Desktop/testing/practice.js",
+		"/Users/Prabhteg/Desktop/testing/app.js",
+		"/Users/Prabhteg/Desktop/testing/package.json",
+		"/Users/Prabhteg/Desktop/app.js",
+		"/Users/Prabhteg/Desktop/practice.js",
+		"/Users/Prabhteg/Desktop/Screen Shot 2016-08-15 at 9.23.13 AM.png",
+		"/Users/Prabhteg/Desktop/MakersSquare/sprints/Sprint 2 - dataStructures/functionalShared.js",
+		"/Users/Prabhteg/Desktop/MakersSquare/sprints/sprint.data-structures.exercise/sprint-two/src/hashTable.js",
+		"/Users/Prabhteg/Desktop/MakersSquare/sprints/Sprint 2 - dataStructures/psuedoClassical.js",
+		"/Users/Prabhteg/Desktop/MakersSquare/sprints/Sprint 2 - dataStructures/sprint.data-structures.solution/sprint-two/src/hashTable.js",
+		"/Users/Prabhteg/Desktop/MakersSquare/mks-46-sprints-React_YouTube/src/components/App.js",
+		"/Users/Prabhteg/Desktop/reactSelfAssessment.js",
+		"/Users/Prabhteg/Desktop/MakersSquare/sprints/sprint.recastly.exercise/README.md",
+		"/Users/Prabhteg/Downloads/sprint.subclass-dance-party.solution/src/dancer.js",
+		"/Users/Prabhteg/Desktop/MakersSquare/sprint.subclass-dance-party.exercise/spec/blinkyDancerSpec.js",
+		"/Users/Prabhteg/Desktop/MakersSquare/MKS-NYC-self-assessments-week-1/README.md",
+		"/Users/Prabhteg/Desktop/MakersSquare/MKS-NYC-self-assessments-week-0/recursion-divs/recursion-divs.js",
+		"/Users/Prabhteg/Desktop/MakersSquare/MKS-NYC-self-assessment-prcs-01/README.md",
+		"/Users/Prabhteg/Desktop/MakersSquare/MKS-NYC-self-assessment-prcs-01/reading/README.md",
+		"/Users/Prabhteg/Desktop/MakersSquare/sprint.data-structures.exercise/sprint-two/src/hashTable.js",
+		"/Users/Prabhteg/Desktop/MakersSquare/MKS-NYC-underbar/src/underbar.js",
+		"/Users/Prabhteg/Desktop/MakersSquare/Sprint 2 - dataStructures/Solutions_functionalDataStructures.js",
+		"/Users/Prabhteg/Desktop/psuedoClassical.js",
+		"/Users/Prabhteg/Desktop/objectCreatePrototypical.js",
+		"/Users/Prabhteg/Desktop/functionalShared.js",
+		"/Users/Prabhteg/Desktop/Solutions_functionalDataStructures.js",
+		"/Users/Prabhteg/Desktop/MakersSquare/MKS-NYC-javascript-koans/koans/AboutMutability.js",
+		"/Users/Prabhteg/Desktop/MakersSquare/SOLUTIONS.sprint.underbar.exercise/src/underbar.js",
+		"/Users/Prabhteg/Desktop/MakersSquare/SOLUTIONS.sprint.recursion.exercise/src/parseJSON.js",
+		"/Users/Prabhteg/Downloads/sprint.recursion.exercise/src/getElementsByClassName.js",
+		"/Users/Prabhteg/Desktop/MakersSquare/MKS-NYC-recursion/src/stringifyJSON.js",
+		"/Users/Prabhteg/Desktop/MakersSquare/MKS-NYC-recursion/spec/stringifyJSONSpec.js",
+		"/Users/Prabhteg/Desktop/MakersSquare/MKS-NYC-recursion/spec/fixtures.js",
+		"/Users/Prabhteg/Desktop/MakersSquare/MKS-NYC-recursion/spec/getElementsByClassNameSpec.js",
+		"/Users/Prabhteg/Desktop/MakersSquare/MKS-NYC-self-assessments-prcs-02/README.md",
+		"/Users/Prabhteg/Desktop/MakersSquare/MKS-NYC-underbar/spec/part2.js",
+		"/Users/Prabhteg/Desktop/MakersSquare/MKS-NYC-self-assessments-prcs-02/underbar-map/underbar-map.js",
+		"/Users/Prabhteg/Desktop/MakersSquare/MKS-NYC-self-assessments-prcs-02/underbar-memoize/underbar-memoize.js",
+		"/Users/Prabhteg/Desktop/MakersSquare/MKS-NYC-self-assessments-prcs-02/underbar-memoize/README.md",
+		"/Users/Prabhteg/Desktop/MakersSquare/MKS-NYC-self-assessments-prcs-02/underbar-uniq/underbar-uniq.js",
+		"/Users/Prabhteg/Desktop/MakersSquare/MKS-NYC-twittler/index.html",
+		"/Users/Prabhteg/Desktop/MakersSquare/MKS-NYC-twittler/jquery.js",
+		"/Users/Prabhteg/Desktop/underscore/underscore/underscoreTest.html",
+		"/Users/Prabhteg/Desktop/underscore/underscore/underscoreJS_practice.js",
+		"/Users/Prabhteg/Desktop/MakersSquare/MKS-NYC-twittler/Twittler.css",
+		"/Users/Prabhteg/Desktop/Projects/TreeWriteFinal/treewriteNewScript.js",
+		"/Users/Prabhteg/Desktop/Projects/TreeWriteFinal/index.html",
+		"/Users/Prabhteg/Desktop/MakersSquare/MKS-NYC-twittler/data_generator.js",
+		"/Users/Prabhteg/Desktop/functional-programming-workshop-master/closures/closureExercises.md",
+		"/Users/Prabhteg/Desktop/functional-programming-workshop-master/underscore-loops/callbackExercises.md",
+		"/Users/Prabhteg/Desktop/functional-programming-workshop-master/underscore-extra-credit/underscoreExercises.md",
+		"/Users/Prabhteg/Desktop/functional-programming-workshop-master/scope/scopeExercises.md",
+		"/Users/Prabhteg/Desktop/functional-programming-workshop-master/scope/functions.js",
+		"/Users/Prabhteg/Desktop/functional-programming-workshop-master/scope/makerSquareMeetup.js",
+		"/Users/Prabhteg/Desktop/functional-programming-workshop-master/callbacks/callbackExercises.md",
+		"/Users/Prabhteg/Desktop/MakersSquare/MKS-NYC-self-assessment-prcs-01/prcs-syntax-errors/prcs-syntax-errors.js",
+		"/Users/Prabhteg/Desktop/MakersSquare/MKS-NYC-javascript-koans/koans/AboutObjects.js",
+		"/Users/Prabhteg/Desktop/MKS-NYC-javascript-koans-master/koans/AboutFunctions.js",
+		"/Users/Prabhteg/Desktop/MakersSquare/MKS-NYC-javascript-koans/koans/AboutExpects.js",
+		"/Users/Prabhteg/Desktop/MakersSquare/MKS-NYC-javascript-koans/koans/AboutArrays.js",
+		"/Users/Prabhteg/Desktop/MKS-NYC-javascript-koans-master/koans/AboutArrays.js",
+		"/Users/Prabhteg/Desktop/MakersSquare/javascript-koans-master/koans/AboutArrays.js",
+		"/Users/Prabhteg/Desktop/MKS-NYC-javascript-koans-master 2/koans/AboutArrays.js",
+		"/Users/Prabhteg/Desktop/MKS-NYC-javascript-koans-master/koans/AboutMutability.js",
+		"/Users/Prabhteg/Desktop/MakersSquare/javascript-koans-master/lib/FILL_ME_IN.js",
+		"/Users/Prabhteg/Desktop/MakersSquare/javascript-koans-master/lib/jasmine/jasmine.js",
+		"/Users/Prabhteg/Desktop/MakersSquare/javascript-koans-master/lib/jasmine/jskoans-jasmine-html.js",
+		"/Users/Prabhteg/Desktop/MakersSquare/javascript-koans-master/lib/underscore.js",
+		"/Users/Prabhteg/Desktop/MakersSquare/MKS-NYC-underbar-master/spec/part2.js",
+		"/Users/Prabhteg/Desktop/MakersSquare/MKS-NYC-underbar-master/src/underbar.js",
+		"/Users/Prabhteg/Desktop/MakersSquare/MKS-NYC-underbar-master/spec/part1.js",
+		"/Users/Prabhteg/Downloads/higher-order-functions-workshop-master/src/callbacks.js",
+		"/Users/Prabhteg/Desktop/MakersSquare/MKS-NYC-javascript-koans-master/koans/AboutExpects.js",
+		"/Users/Prabhteg/Desktop/MakersSquare/MKS-NYC-javascript-koans-master/koans/AboutArrays.js",
+		"/Users/Prabhteg/Desktop/MakersSquare/MKS-NYC-javascript-koans-master/koans/AboutFunctions.js",
+		"/Users/Prabhteg/Desktop/functional-programming-workshop-master/scope/SpecRunner.html",
+		"/Users/Prabhteg/Desktop/functional-programming-workshop-master/scope/lib/chai/chai.js",
+		"/Users/Prabhteg/Downloads/higher-order-functions-workshop-master.zip",
+		"/Users/Prabhteg/Downloads/higher-order-functions-workshop-master/SpecRunner.html",
+		"/Users/Prabhteg/Desktop/Fullstack Documents/Bike Maps Project/script.js",
+		"/Users/Prabhteg/Desktop/Fullstack Documents/Tic Tac Toe Project/tictactoe.js",
+		"/Users/Prabhteg/Desktop/Projects/randQuote.js",
+		"/Users/Prabhteg/Desktop/Projects/quote.html",
+		"/Users/Prabhteg/Desktop/Projects/persontraining1.html",
+		"/Users/Prabhteg/Desktop/Projects/personaltrainingCSS.css",
+		"/Users/Prabhteg/Desktop/Projects/persontraining.html",
+		"/Users/Prabhteg/Desktop/main.css",
+		"/Users/Prabhteg/Desktop/GroceryMe/firebase.json",
+		"/Users/Prabhteg/Desktop/main.js",
+		"/Users/Prabhteg/Desktop/index.html",
+		"/Users/Prabhteg/Desktop/Projects/TreeWriteFinal/TreeWriteMain.css",
+		"/Users/Prabhteg/Desktop/Projects/TreeWriteFinal/main.css",
+		"/Users/Prabhteg/Desktop/Projects/TreeWriteFinal/TreeWriteNew.html"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"browserHistory",
+			"./controllers",
+			"./controller",
+			"locationDetails",
+			"formData",
+			"controller",
+			"Tasks",
+			"italic",
+			"gold",
+			"Zapf",
+			"zapf",
+			"log",
+			"actionscontainer",
+			"actioncontainer",
+			"log",
+			"action",
+			"actionsStyle",
+			"log",
+			"clear",
+			"enemyname",
+			"riddles",
+			"answer",
+			"riddle",
+			"battle.js",
+			"battle",
+			"reactDom",
+			"app/web/index",
+			"app/web/index.html",
+			"go east",
+			"east",
+			"character",
+			"charactre",
+			"messages",
+			"wait why are",
+			"handlesubmit",
+			"signinUser",
+			"formprops",
+			"validate",
+			"actions",
+			"env",
+			"envconfig",
+			"jwt",
+			"passport",
+			"swipeController.js",
+			"thunk",
+			"axios",
+			"get_cards",
+			"browswerhistory",
+			"browswer",
+			"axios",
+			"post",
+			"callback",
+			"addmarker",
+			"isvalidUrl",
+			"map",
+			"quickstart",
+			"body",
+			"posts",
+			"consectetur",
+			"wqq"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "weather.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 243.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
